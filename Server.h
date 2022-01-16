@@ -12,7 +12,6 @@ struct Server
 	u_long interface;
 	int port;
 	int backlog;
-	int option;
 
 	int socket;
 
